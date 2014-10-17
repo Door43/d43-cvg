@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cvg:home|Door43 (cvg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cvg|d43-cvg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cvg/archive/master.zip|d43-cvg.zip]]
+
+**Recent Changes**
+{{changes>ns = cvg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cvg|Ethnologue data]]
+
